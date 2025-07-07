@@ -152,9 +152,8 @@ O projeto gera os seguintes gráficos:
 
 ## 👤 Autor
 
-**[Seu Nome]**
+**[Eduardo Thomaz Centenaro]**
 
-- Turma: [Sua Turma]
 - Disciplina: Tópicos Especiais em Computação I
 - Data: 06/07/2025
 
