@@ -117,12 +117,20 @@ python titanic_analysis.py
 ## 📁 Estrutura do Projeto
 
 ```
-titanic-analysis/
-├── titanic_analysis.py      # Script principal
-├── titanic.csv             # Dataset (baixar separadamente)
-├── README.md               # Este arquivo
-├── relatorio.pdf           # Relatório em PDF
-└── requirements.txt        # Dependências
+
+DATA-MINING-TRABALHO/
+│
+├── results/                      # Relatório
+│ ├── analise-exploratoria.png
+│ ├── importancia-das-features.png
+│ ├── matriz-de-confusao.png
+│ └── RELATORIO-ANALISE-DE-MINERACAO-DE-DADOS.pdf
+├── src/
+│ └── titanic_analysis.py
+│ └── titanic.csv                 # Dataset (baixar separadamente)
+│ └── requirements.txt            # Dependências
+
+
 ```
 
 ## 📈 Visualizações Geradas
